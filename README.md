@@ -14,7 +14,7 @@
 - 🤝 **Collaboration Opportunities**: Open to collaborating
 ## 📫 Get in Touch
 - 📧 **Email**: Feel free to reach out to me at [yahyapwoka@gmail.com](mailto:yahyapwoka@gmail.com) for collaboration, discussion, or just to say hi!
-- 💼 **LinkedIn**: - Let’s connect professionally and explore opportunities together.
+- 💼 **LinkedIn**: - www.LinkedIn.com/in/john-pwoka Let’s connect professionally and explore opportunities together.
 
 ## ⚡ Fun Facts
 - 📖 **Hobbies**: I love reading about the latest advancements in technology and cybersecurity.
