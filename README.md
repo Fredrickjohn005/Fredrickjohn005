@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fredrickjohn005
+- 👋 Hi, I’m @Fredrick Pwoka
 - welcome to my GitHub profile! I'm passionate about exploring the vast realms of technology, especially in the areas of **cybersecurity** and **ethical hacking**. Here’s a little more about me and what I’m working on.
 
 ## 🔍 About Me
@@ -22,7 +22,7 @@
 ) - Connect with me for the latest updates on my projects and thoughts on cybersecurity.
 
 ### 📊 GitHub Stats
-![Fredrick John's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredrickjohn005&show_icons=true&theme=radical)
+![Fredrick Pwoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredrickjohn005&show_icons=true&theme=radical)
 
 ---
 
